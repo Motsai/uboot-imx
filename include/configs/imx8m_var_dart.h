@@ -123,7 +123,7 @@
 	"fdt_high=0xffffffffffffffff\0"		\
 	"boot_fdt=try\0" \
 	"ip_dyn=yes\0" \
-	"fdt_file=undefined\0" \
+	"fdt_file=fsl-imx8mq-var-dart-motsai-p146.dtb\0" \
 	"initrd_addr=0x43800000\0"		\
 	"initrd_high=0xffffffffffffffff\0" \
 	"video=HDMI-A-1:1920x1080-32@60\0" \
